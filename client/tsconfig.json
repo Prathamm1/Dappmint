@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Sidebar.js", "pages/_app.js", "pages/index.js", "components/profile/mintingModal/ProfileImageMinter.tsx", "components/profile/mintingModal/LoadingState.tsx", "components/profile/mintingModal/InitialState.tsx", "components/profile/mintingModal/FinishedState.tsx"],
+  "exclude": ["node_modules"]
+}
