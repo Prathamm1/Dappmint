@@ -13,11 +13,11 @@ const style = {
     backButton: `text-3xl cursor-pointer mr-2 rounded-full hover:bg-[#313b44] p-1`,
     coverPhotoContainer: `flex items-center justify-center h-[25vh] overflow-hidden mx-1`,
     coverPhoto: `object-cover h-full w-full`,
-    profileImageContainer: `w-full h-[6rem] rounded-full mt-[-3rem] mb-2 flex justify-start items-center px-3 flex justify-between`,
+    profileImageContainer: `w-full h-[9rem] rounded-full mt-[-3rem] mb-2 flex justify-start items-center px-3 flex justify-between`,
     profileImage: `object-cover rounded-full h-full`,
     profileImageNft: `object-cover h-full`,
     profileImageMint: `bg-white text-black px-3 py-1 rounded-full hover:bg-[#8899a6] cursor-pointer`,
-    details: `px-3`,
+    details: `px-5`,
     nav: `flex justify-around mt-4 mb-2 text-xs font-semibold text-[#8899a6]`,
     activeNav: `text-white`,
 }
