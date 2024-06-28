@@ -46,7 +46,7 @@ Follow these steps to get a local copy up and running.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/dappmint.git
+    git clone https://github.com/prathamm1/dappmint.git
     cd dappmint
     ```
 
